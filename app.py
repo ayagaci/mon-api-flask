@@ -51,7 +51,10 @@ def calculer_statistiques(data):
 @app.route('/calculer', methods=['POST'])
 def calculer():
     try:
-        data = request.get_json().get("data")  #  Correction de l'indentation
+        json_data = request.get_json()  # 🔹 On récupère tout le JSON
+        print("Données reçues :", json_data)  # 🔍 Debugging
+
+        data = json_data.get("valeurs")  # 🔹 Correction ici
 
         if data is None:
             return jsonify({"error": "Aucune donnée fournie"}), 400
@@ -74,6 +77,7 @@ def calculer():
         logging.error(f"Erreur interne du serveur: {str(e)}")
         return jsonify({"error": "Erreur interne du serveur, veuillez réessayer plus tard."}), 500
 
+
 @app.route("/")
 def home():
     return "Bienvenue sur Flask !"
@@ -83,8 +87,7 @@ def stats():
     return jsonify({"message": "Statistiques générées avec succès"})
 
 
+
 if __name__ == "__main__":
-    debug_mode = os.getenv("FLASK_DEBUG", "True").lower() == "true"
-    port = int(os.environ.get("PORT", 10000))  # Render donne un port automatiquement
-    print(f"Serveur en cours d'exécution sur le port {port}")
-    app.run(host="0.0.0.0", port=port, debug=debug_mode)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)

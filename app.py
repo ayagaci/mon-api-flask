@@ -87,11 +87,17 @@ def calculer():
             return jsonify({"error": "La liste de nombres est vide"}), 400
 
         result = calculer_statistiques(data)
-        return jsonify(result)
+
+        return jsonify({
+            **result,
+            "q1": result["quartiles"]["Q1"],  # 🔹 Correction ici
+            "q3": result["quartiles"]["Q3"]   # 🔹 Correction ici
+        })
 
     except Exception as e:
         logging.error(f"Erreur interne du serveur: {str(e)}")
         return jsonify({"error": "Erreur interne du serveur, veuillez réessayer plus tard."}), 500
+
 
 @app.route("/", strict_slashes=False)
 def home():

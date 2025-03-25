@@ -78,6 +78,11 @@ def calculer():
 def home():
     return "Bienvenue sur Flask !"
 
+@app.route('/stats')
+def stats():
+    return "Voici les statistiques"
+
+
 if __name__ == "__main__":
     debug_mode = os.getenv("FLASK_DEBUG", "True").lower() == "true"
     print("Serveur en cours d'exécution sur http://127.0.0.1:5001")

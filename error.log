@@ -1,0 +1,255 @@
+2025-03-24 15:45:12,084 - WARNING -  * Debugger is active!
+2025-03-24 15:45:12,087 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 15:45:14,272 - INFO -  * Detected change in 'C:\\Users\\BEDJAOUI INFO\\OneDrive\\Documents\\MonApp\\backend\\app.py', reloading
+2025-03-24 15:45:15,129 - WARNING -  * Debugger is active!
+2025-03-24 15:45:15,132 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 15:45:49,407 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 15:45:49,407 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 15:45:49,408 - INFO -  * Restarting with stat
+2025-03-24 15:45:50,123 - WARNING -  * Debugger is active!
+2025-03-24 15:45:50,133 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 15:47:27,796 - INFO - 127.0.0.1 - - [24/Mar/2025 15:47:27] "[31m[1mPOST /calculer HTTP/1.1[0m" 400 -
+2025-03-24 15:47:46,165 - INFO - 127.0.0.1 - - [24/Mar/2025 15:47:46] "[31m[1mPOST /calculer HTTP/1.1[0m" 400 -
+2025-03-24 15:49:45,599 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 15:49:45,599 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 15:49:45,602 - INFO -  * Restarting with stat
+2025-03-24 15:49:46,311 - WARNING -  * Debugger is active!
+2025-03-24 15:49:46,315 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 15:52:16,420 - ERROR - Erreur interne du serveur: 400 Bad Request: Failed to decode JSON object: Expecting ':' delimiter: line 1 column 25 (char 24)
+2025-03-24 15:52:16,421 - INFO - 127.0.0.1 - - [24/Mar/2025 15:52:16] "[35m[1mPOST /calculer HTTP/1.1[0m" 500 -
+2025-03-24 15:52:52,060 - INFO - 127.0.0.1 - - [24/Mar/2025 15:52:52] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 15:57:12,259 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 15:57:12,259 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 15:57:12,260 - INFO -  * Restarting with stat
+2025-03-24 15:57:12,956 - WARNING -  * Debugger is active!
+2025-03-24 15:57:12,959 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:02:39,574 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 16:02:39,574 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:02:39,578 - INFO -  * Restarting with stat
+2025-03-24 16:02:41,198 - WARNING -  * Debugger is active!
+2025-03-24 16:02:41,201 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:05:44,516 - INFO -  * Detected change in 'C:\\Users\\BEDJAOUI INFO\\OneDrive\\Documents\\MonApp\\backend\\app.py', reloading
+2025-03-24 16:05:44,738 - INFO -  * Restarting with stat
+2025-03-24 16:05:46,294 - WARNING -  * Debugger is active!
+2025-03-24 16:05:46,297 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:05:57,319 - INFO -  * Detected change in 'C:\\Users\\BEDJAOUI INFO\\OneDrive\\Documents\\MonApp\\backend\\app.py', reloading
+2025-03-24 16:05:57,518 - INFO -  * Restarting with stat
+2025-03-24 16:05:58,896 - WARNING -  * Debugger is active!
+2025-03-24 16:05:58,899 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:06:13,199 - INFO -  * Detected change in 'C:\\Users\\BEDJAOUI INFO\\OneDrive\\Documents\\MonApp\\backend\\app.py', reloading
+2025-03-24 16:06:13,391 - INFO -  * Restarting with stat
+2025-03-24 16:06:35,082 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+2025-03-24 16:06:35,083 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:06:35,084 - INFO -  * Restarting with stat
+2025-03-24 16:06:36,452 - WARNING -  * Debugger is active!
+2025-03-24 16:06:36,454 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:07:31,360 - INFO -  * Detected change in 'C:\\Users\\BEDJAOUI INFO\\OneDrive\\Documents\\MonApp\\backend\\app.py', reloading
+2025-03-24 16:07:31,561 - INFO -  * Restarting with stat
+2025-03-24 16:07:33,071 - WARNING -  * Debugger is active!
+2025-03-24 16:07:33,074 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:13:39,931 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 16:13:39,932 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:13:39,934 - INFO -  * Restarting with stat
+2025-03-24 16:13:41,386 - WARNING -  * Debugger is active!
+2025-03-24 16:13:41,389 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:17:43,673 - INFO -  * Detected change in 'C:\\Users\\BEDJAOUI INFO\\OneDrive\\Documents\\MonApp\\backend\\app.py', reloading
+2025-03-24 16:17:43,968 - INFO -  * Restarting with stat
+2025-03-24 16:17:47,294 - WARNING -  * Debugger is active!
+2025-03-24 16:17:47,302 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:19:03,631 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 16:19:03,632 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:19:03,635 - INFO -  * Restarting with stat
+2025-03-24 16:19:06,400 - WARNING -  * Debugger is active!
+2025-03-24 16:19:06,405 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:19:25,486 - INFO - 127.0.0.1 - - [24/Mar/2025 16:19:25] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-24 16:19:25,662 - INFO - 127.0.0.1 - - [24/Mar/2025 16:19:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-24 16:22:08,063 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:22:08,063 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:22:08,065 - INFO -  * Restarting with stat
+2025-03-24 16:22:10,101 - WARNING -  * Debugger is active!
+2025-03-24 16:22:10,107 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:22:16,960 - INFO - 127.0.0.1 - - [24/Mar/2025 16:22:16] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-24 16:22:17,151 - INFO - 127.0.0.1 - - [24/Mar/2025 16:22:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-24 16:24:21,397 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:24:21,397 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:24:21,399 - INFO -  * Restarting with stat
+2025-03-24 16:24:23,225 - WARNING -  * Debugger is active!
+2025-03-24 16:24:23,230 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:25:31,532 - INFO - 127.0.0.1 - - [24/Mar/2025 16:25:31] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-24 16:25:31,674 - INFO - 127.0.0.1 - - [24/Mar/2025 16:25:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-24 16:29:54,843 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:29:54,843 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:29:54,845 - INFO -  * Restarting with stat
+2025-03-24 16:29:56,257 - WARNING -  * Debugger is active!
+2025-03-24 16:29:56,263 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:32:32,960 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:32:32,960 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:32:32,962 - INFO -  * Restarting with stat
+2025-03-24 16:32:34,421 - WARNING -  * Debugger is active!
+2025-03-24 16:32:34,424 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:33:10,099 - INFO - 127.0.0.1 - - [24/Mar/2025 16:33:10] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-24 16:34:51,763 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:34:51,763 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:36:22,345 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:36:22,345 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:36:22,347 - INFO -  * Restarting with stat
+2025-03-24 16:36:23,674 - WARNING -  * Debugger is active!
+2025-03-24 16:36:23,676 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:39:43,323 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:39:43,323 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:39:43,325 - INFO -  * Restarting with stat
+2025-03-24 16:39:44,634 - WARNING -  * Debugger is active!
+2025-03-24 16:39:44,637 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:41:42,620 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:41:42,621 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:41:42,623 - INFO -  * Restarting with stat
+2025-03-24 16:41:45,361 - WARNING -  * Debugger is active!
+2025-03-24 16:41:45,367 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:42:35,743 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:42:35,743 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:42:35,748 - INFO -  * Restarting with stat
+2025-03-24 16:42:40,292 - WARNING -  * Debugger is active!
+2025-03-24 16:42:40,303 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:43:21,980 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:43:21,980 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:43:21,993 - INFO -  * Restarting with stat
+2025-03-24 16:43:27,793 - WARNING -  * Debugger is active!
+2025-03-24 16:43:27,801 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:44:55,264 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-03-24 16:44:55,264 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:44:55,267 - INFO -  * Restarting with stat
+2025-03-24 16:44:57,422 - WARNING -  * Debugger is active!
+2025-03-24 16:44:57,426 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:45:24,642 - INFO -  * Detected change in 'C:\\Users\\BEDJAOUI INFO\\OneDrive\\Documents\\MonApp\\backend\\app.py', reloading
+2025-03-24 16:45:25,034 - INFO -  * Restarting with stat
+2025-03-24 16:45:27,749 - WARNING -  * Debugger is active!
+2025-03-24 16:45:27,754 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:46:03,687 - INFO -  * Detected change in 'C:\\Users\\BEDJAOUI INFO\\OneDrive\\Documents\\MonApp\\backend\\app.py', reloading
+2025-03-24 16:46:03,892 - INFO -  * Restarting with stat
+2025-03-24 16:46:06,689 - WARNING -  * Debugger is active!
+2025-03-24 16:46:06,693 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:46:08,012 - INFO -  * Detected change in 'C:\\Users\\BEDJAOUI INFO\\OneDrive\\Documents\\MonApp\\backend\\app.py', reloading
+2025-03-24 16:46:08,194 - INFO -  * Restarting with stat
+2025-03-24 16:46:10,961 - WARNING -  * Debugger is active!
+2025-03-24 16:46:10,968 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:46:32,558 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:46:32,558 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:47:03,538 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 16:47:03,538 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:57:06,285 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 16:57:06,285 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:57:06,288 - INFO -  * Restarting with stat
+2025-03-24 16:57:08,091 - WARNING -  * Debugger is active!
+2025-03-24 16:57:08,095 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 16:57:46,862 - INFO - 127.0.0.1 - - [24/Mar/2025 16:57:46] "GET / HTTP/1.1" 200 -
+2025-03-24 16:59:01,917 - ERROR - Erreur interne du serveur: Object of type int64 is not JSON serializable
+2025-03-24 16:59:01,917 - INFO - 127.0.0.1 - - [24/Mar/2025 16:59:01] "[35m[1mPOST /calculer HTTP/1.1[0m" 500 -
+2025-03-24 17:05:56,331 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 17:05:56,331 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 17:07:25,569 - INFO - Requête reçue avec 9 éléments.
+2025-03-24 17:07:25,572 - ERROR - Erreur interne du serveur: Object of type int64 is not JSON serializable
+2025-03-24 17:07:25,573 - INFO - 127.0.0.1 - - [24/Mar/2025 17:07:25] "[35m[1mPOST /calculer HTTP/1.1[0m" 500 -
+2025-03-24 17:07:37,432 - INFO - Requête reçue avec 9 éléments.
+2025-03-24 17:07:37,444 - ERROR - Erreur interne du serveur: Object of type int64 is not JSON serializable
+2025-03-24 17:07:37,445 - INFO - 127.0.0.1 - - [24/Mar/2025 17:07:37] "[35m[1mPOST /calculer HTTP/1.1[0m" 500 -
+2025-03-24 17:12:25,095 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 17:12:25,095 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 17:13:21,305 - INFO - Requête reçue avec 9 éléments.
+2025-03-24 17:13:21,309 - INFO - 127.0.0.1 - - [24/Mar/2025 17:13:21] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 17:16:36,486 - INFO - Requête reçue avec 9 éléments.
+2025-03-24 17:16:36,489 - INFO - 127.0.0.1 - - [24/Mar/2025 17:16:36] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 17:18:25,388 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 17:18:25,389 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 17:30:23,114 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 17:30:23,114 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 17:33:21,291 - INFO - 127.0.0.1 - - [24/Mar/2025 17:33:21] "[31m[1mPOST /calculer HTTP/1.1[0m" 400 -
+2025-03-24 17:42:41,868 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 17:42:41,869 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 17:42:41,871 - INFO -  * Restarting with stat
+2025-03-24 17:42:43,328 - WARNING -  * Debugger is active!
+2025-03-24 17:42:43,331 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 17:43:26,640 - INFO - Requête reçue avec 7 éléments.
+2025-03-24 17:43:26,646 - INFO - 127.0.0.1 - - [24/Mar/2025 17:43:26] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 17:50:20,187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 17:50:20,187 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 17:50:20,190 - INFO -  * Restarting with stat
+2025-03-24 17:50:21,666 - WARNING -  * Debugger is active!
+2025-03-24 17:50:21,669 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 17:51:05,175 - INFO - 127.0.0.1 - - [24/Mar/2025 17:51:05] "OPTIONS /calculer HTTP/1.1" 200 -
+2025-03-24 17:51:05,177 - INFO - Requête reçue avec 7 éléments.
+2025-03-24 17:51:05,181 - INFO - 127.0.0.1 - - [24/Mar/2025 17:51:05] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 17:51:57,376 - INFO - 127.0.0.1 - - [24/Mar/2025 17:51:57] "OPTIONS /calculer HTTP/1.1" 200 -
+2025-03-24 17:51:57,378 - INFO - Requête reçue avec 5 éléments.
+2025-03-24 17:51:57,382 - INFO - 127.0.0.1 - - [24/Mar/2025 17:51:57] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 17:54:10,761 - INFO -  * Detected change in 'C:\\Users\\BEDJAOUI INFO\\OneDrive\\Documents\\MonApp\\backend\\app.py', reloading
+2025-03-24 17:54:10,950 - INFO -  * Restarting with stat
+2025-03-24 17:55:11,999 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-24 17:55:11,999 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 17:55:12,001 - INFO -  * Restarting with stat
+2025-03-24 17:55:13,596 - WARNING -  * Debugger is active!
+2025-03-24 17:55:13,599 - INFO -  * Debugger PIN: 472-610-565
+2025-03-24 17:55:51,692 - INFO - 127.0.0.1 - - [24/Mar/2025 17:55:51] "OPTIONS /calculer HTTP/1.1" 200 -
+2025-03-24 17:55:51,697 - INFO - Requête reçue avec 5 éléments.
+2025-03-24 17:55:51,701 - INFO - 127.0.0.1 - - [24/Mar/2025 17:55:51] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 17:58:08,222 - INFO - Requête reçue avec 7 éléments.
+2025-03-24 17:58:08,224 - INFO - 127.0.0.1 - - [24/Mar/2025 17:58:08] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 17:58:22,657 - INFO - Requête reçue avec 7 éléments.
+2025-03-24 17:58:22,660 - INFO - 127.0.0.1 - - [24/Mar/2025 17:58:22] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 21:44:26,243 - INFO - Requête reçue avec 8 éléments.
+2025-03-24 21:44:26,257 - INFO - 127.0.0.1 - - [24/Mar/2025 21:44:26] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 21:44:44,617 - INFO - 127.0.0.1 - - [24/Mar/2025 21:44:44] "OPTIONS /calculer HTTP/1.1" 200 -
+2025-03-24 21:44:44,624 - INFO - Requête reçue avec 6 éléments.
+2025-03-24 21:44:44,626 - INFO - 127.0.0.1 - - [24/Mar/2025 21:44:44] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 23:22:31,248 - ERROR - Erreur interne du serveur: 400 Bad Request: Failed to decode JSON object: Expecting value: line 2 column 12 (char 14)
+2025-03-24 23:22:31,250 - INFO - 127.0.0.1 - - [24/Mar/2025 23:22:31] "[35m[1mPOST /calculer HTTP/1.1[0m" 500 -
+2025-03-24 23:22:41,738 - INFO - Requête reçue avec 5 éléments.
+2025-03-24 23:22:41,746 - INFO - 127.0.0.1 - - [24/Mar/2025 23:22:41] "POST /calculer HTTP/1.1" 200 -
+2025-03-24 23:22:56,205 - INFO - Requête reçue avec 5 éléments.
+2025-03-24 23:22:56,207 - INFO - 127.0.0.1 - - [24/Mar/2025 23:22:56] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:18:42,642 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-25 12:18:42,643 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-25 12:18:42,646 - INFO -  * Restarting with stat
+2025-03-25 12:18:44,477 - WARNING -  * Debugger is active!
+2025-03-25 12:18:44,481 - INFO -  * Debugger PIN: 324-187-906
+2025-03-25 12:19:13,615 - INFO - 127.0.0.1 - - [25/Mar/2025 12:19:13] "GET / HTTP/1.1" 200 -
+2025-03-25 12:19:13,809 - INFO - 127.0.0.1 - - [25/Mar/2025 12:19:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-25 12:20:16,759 - INFO - Requête reçue avec 5 éléments.
+2025-03-25 12:20:16,778 - INFO - 127.0.0.1 - - [25/Mar/2025 12:20:16] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:20:45,162 - INFO - Requête reçue avec 7 éléments.
+2025-03-25 12:20:45,167 - INFO - 127.0.0.1 - - [25/Mar/2025 12:20:45] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:20:58,799 - INFO - Requête reçue avec 7 éléments.
+2025-03-25 12:20:58,804 - INFO - 127.0.0.1 - - [25/Mar/2025 12:20:58] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:33:23,480 - INFO - 127.0.0.1 - - [25/Mar/2025 12:33:23] "OPTIONS /calculer HTTP/1.1" 200 -
+2025-03-25 12:33:23,486 - INFO - Requête reçue avec 8 éléments.
+2025-03-25 12:33:23,491 - INFO - 127.0.0.1 - - [25/Mar/2025 12:33:23] "POST /calculer HTTP/1.1" 200 -

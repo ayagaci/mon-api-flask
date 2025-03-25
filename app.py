@@ -77,7 +77,7 @@ def calculer():
 @app.route("/")
 def home():
     return "Bienvenue sur Flask !"
-    
+
 @app.route('/stats')
 def stats():
     return jsonify({"message": "Statistiques générées avec succès"})
@@ -85,7 +85,6 @@ def stats():
 
 if __name__ == "__main__":
     debug_mode = os.getenv("FLASK_DEBUG", "True").lower() == "true"
-    print("Serveur en cours d'exécution sur http://127.0.0.1:5001")
-    app.run(debug=debug_mode, port=5001)
-
-
+    port = int(os.environ.get("PORT", 10000))  # Render donne un port automatiquement
+    print(f"Serveur en cours d'exécution sur le port {port}")
+    app.run(host="0.0.0.0", port=port, debug=debug_mode)

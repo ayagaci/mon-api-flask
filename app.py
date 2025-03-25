@@ -20,7 +20,7 @@ logging.basicConfig(
 app = Flask(__name__)
 CORS(app)
 
-def calculer_statistiques(data):
+def calculer_statistiques(data): 
     try:
         data_array = np.array(data)
         s = pd.Series(data_array)
@@ -28,6 +28,7 @@ def calculer_statistiques(data):
         mode_list = s.mode().tolist()
         mode_list = None if len(mode_list) == len(data_array) else mode_list  # Gère le cas où tous les nombres sont uniques
         quartiles = np.percentile(data_array, [25, 50, 75])
+        iqr = float(quartiles[2] - quartiles[0])  # IQR = Q3 - Q1
 
         # Gestion de la variance et de l'écart-type si un seul élément est présent
         if len(data_array) == 1:
@@ -52,10 +53,13 @@ def calculer_statistiques(data):
                 "Q1": float(quartiles[0]),
                 "Q2": float(quartiles[1]),
                 "Q3": float(quartiles[2])
-            }
+            },
+            "iqr": iqr  # 🔹 Ajout de l'IQR dans les résultats
         }
 
+        print(statistiques)  # Debug pour voir si "iqr" est bien calculé et renvoyé
         return statistiques
+
     except Exception as e:
         logging.error(f"Erreur lors du calcul des statistiques: {str(e)}")
         return {"error": "Erreur interne du serveur, consultez les logs."}
@@ -100,3 +104,4 @@ def stats():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
+

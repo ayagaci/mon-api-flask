@@ -253,3 +253,27 @@
 2025-03-25 12:33:23,480 - INFO - 127.0.0.1 - - [25/Mar/2025 12:33:23] "OPTIONS /calculer HTTP/1.1" 200 -
 2025-03-25 12:33:23,486 - INFO - Requête reçue avec 8 éléments.
 2025-03-25 12:33:23,491 - INFO - 127.0.0.1 - - [25/Mar/2025 12:33:23] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:35:19,879 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-25 12:35:19,879 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-25 12:35:19,881 - INFO -  * Restarting with stat
+2025-03-25 12:35:21,464 - WARNING -  * Debugger is active!
+2025-03-25 12:35:21,467 - INFO -  * Debugger PIN: 324-187-906
+2025-03-25 12:36:23,307 - INFO - 127.0.0.1 - - [25/Mar/2025 12:36:23] "OPTIONS /calculer HTTP/1.1" 200 -
+2025-03-25 12:36:23,315 - INFO - Requête reçue avec 7 éléments.
+2025-03-25 12:36:23,327 - INFO - 127.0.0.1 - - [25/Mar/2025 12:36:23] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:36:38,781 - INFO - 127.0.0.1 - - [25/Mar/2025 12:36:38] "OPTIONS /calculer HTTP/1.1" 200 -
+2025-03-25 12:36:38,790 - INFO - Requête reçue avec 8 éléments.
+2025-03-25 12:36:38,800 - INFO - 127.0.0.1 - - [25/Mar/2025 12:36:38] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:36:57,297 - INFO - 127.0.0.1 - - [25/Mar/2025 12:36:57] "OPTIONS /calculer HTTP/1.1" 200 -
+2025-03-25 12:36:57,306 - INFO - Requête reçue avec 9 éléments.
+2025-03-25 12:36:57,315 - INFO - 127.0.0.1 - - [25/Mar/2025 12:36:57] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:37:37,544 - INFO - Requête reçue avec 7 éléments.
+2025-03-25 12:37:37,548 - INFO - 127.0.0.1 - - [25/Mar/2025 12:37:37] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:38:49,620 - INFO - Requête reçue avec 28 éléments.
+2025-03-25 12:38:49,625 - INFO - 127.0.0.1 - - [25/Mar/2025 12:38:49] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:40:04,975 - INFO - Requête reçue avec 36 éléments.
+2025-03-25 12:40:04,989 - INFO - 127.0.0.1 - - [25/Mar/2025 12:40:04] "POST /calculer HTTP/1.1" 200 -
+2025-03-25 12:46:14,362 - INFO - 127.0.0.1 - - [25/Mar/2025 12:46:14] "OPTIONS /calculer HTTP/1.1" 200 -
+2025-03-25 12:46:14,368 - INFO - Requête reçue avec 36 éléments.
+2025-03-25 12:46:14,373 - INFO - 127.0.0.1 - - [25/Mar/2025 12:46:14] "POST /calculer HTTP/1.1" 200 -

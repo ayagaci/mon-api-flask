@@ -77,10 +77,10 @@ def calculer():
 @app.route("/")
 def home():
     return "Bienvenue sur Flask !"
-
+    
 @app.route('/stats')
 def stats():
-    return "Voici les statistiques"
+    return jsonify({"message": "Statistiques générées avec succès"})
 
 
 if __name__ == "__main__":

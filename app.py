@@ -29,6 +29,10 @@ def calculer_statistiques(data):
         mode_list = None if len(mode_list) == len(data_array) else mode_list  # Gère le cas où tous les nombres sont uniques
         quartiles = np.percentile(data_array, [25, 50, 75])
         iqr = float(quartiles[2] - quartiles[0])  # IQR = Q3 - Q1
+        # Détection des valeurs aberrantes (basée sur l'IQR)
+        seuil_bas = quartiles[0] - 1.5 * iqr
+        seuil_haut = quartiles[2] + 1.5 * iqr
+        valeurs_aberrantes = [x for x in data_array if x < seuil_bas or x > seuil_haut]
 
         # Gestion de la variance et de l'écart-type si un seul élément est présent
         if len(data_array) == 1:
@@ -55,6 +59,7 @@ def calculer_statistiques(data):
                 "Q3": float(quartiles[2])
             },
             "iqr": iqr  # 🔹 Ajout de l'IQR dans les résultats
+            "valeurs_aberrantes": list(map(float, valeurs_aberrantes))
         }
 
         print(statistiques)  # Debug pour voir si "iqr" est bien calculé et renvoyé

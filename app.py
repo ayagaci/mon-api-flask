@@ -56,9 +56,9 @@ def calculer_statistiques(data):
             "quartiles": {
                 "Q1": float(quartiles[0]),
                 "Q2": float(quartiles[1]),
-                "Q3": float(quartiles[2])
+                "Q3": float(quartiles[2]),
             },
-            "iqr": iqr  # 🔹 Ajout de l'IQR dans les résultats
+            "iqr": iqr , # 🔹 Ajout de l'IQR dans les résultats
             "valeurs_aberrantes": list(map(float, valeurs_aberrantes))
         }
 
